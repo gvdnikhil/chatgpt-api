@@ -7,7 +7,8 @@ Install the dependencies to run the file using the following commands.
 ```
 
 npm i -S @chatscope/chat-ui-kit-react @chatscope/chat-ui-kit-styles openai
-``` ```
+```
+ ```
 npm run dev
 ```
 
